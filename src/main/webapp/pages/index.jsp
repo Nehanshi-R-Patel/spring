@@ -8,6 +8,6 @@
 </head>
 <body>
 	Welcome to X-workz...!
-	<a href="msg.do">click to call Welcome page</a>
+	<a href="msg.do">Click Me...!</a>
 </body>
 </html>
